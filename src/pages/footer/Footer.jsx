@@ -10,11 +10,11 @@ const Footer = () => {
                 <p className='text-gray-300'>Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.</p>
 
                 <h3>Socail links</h3>
-                <div className='flex gap-4 items-center'>
-                    <FaFacebook className='btn rounded-lg p-1 btn-outline btn-error' />
-                    <FaX className='btn rounded-lg p-1 btn-outline btn-error' />
-                    <FaInstagram className='btn rounded-lg p-1 btn-outline btn-error' />
-                </div>
+               <div className='flex gap-10 items-center mt-3'>
+    <FaFacebook className='text-white text-3xl opacity-80 hover:text-blue-500 transition cursor-pointer' />
+    <FaX className='text-white text-3xl opacity-80 hover:text-black transition cursor-pointer' />
+    <FaInstagram className='text-white text-3xl opacity-80 hover:text-pink-500 transition cursor-pointer' />
+</div>
 
             </div>
                 <div className="flex text-[70%] gap-80">
