@@ -23,5 +23,41 @@
     "goal": 7,
     "next_due_date": "2026-04-05"
   },
-  
+  {
+    "id": 3,
+    "name": "Neymar Jr",
+    "picture": "https://www.shutterstock.com/editorial/image-editorial/OfT6A705NbT9I440NjIwMw==/neymar-jr-smiles-during-official-psg-presentation-1500w-8983290ar.jpg",
+    "email": "neymar.jr@gmail.com",
+    "days_since_contact": 6,
+    "status": "almost due",
+    "tags": ["gym", "hobby"],
+    "bio": "Tennis partner. Very competitive but great for staying motivated.",
+    "goal": 7,
+    "next_due_date": "2026-04-14"
+  },
+  {
+    "id": 4,
+    "name": "Pedri",
+    "picture": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2025/10/gettyimages-2243475324.jpg?quality=90&strip=all&crop=0.0048770971517698%2C0%2C99.990245805696%2C100&w=1080",
+    "email": "pedri_dev@protonmail.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["networking", "conference"],
+    "bio": "Met at React Conf. Senior DevOps engineer with deep AWS knowledge.",
+    "goal": 30,
+    "next_due_date": "2026-03-25"
+  },
+  {
+    "id": 5,
+    "name": "Gavi",
+    "picture": "https://assets.goal.com/images/v3/blt0aab5973d573fa2f/1419024601.jpg?auto=webp&format=pjpg&width=1080&quality=60",
+    "email": "gavi.m@berlin-design.de",
+    "days_since_contact": 1,
+    "status": "on-track",
+    "tags": ["family", "sister"],
+    "bio": "My younger sister living in Berlin. Loves architecture and photography.",
+    "goal": 3,
+    "next_due_date": "2026-04-16"
+  },
+
 ]
