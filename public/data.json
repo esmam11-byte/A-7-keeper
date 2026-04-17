@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "picture": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5c38/live/16192430-f5ef-11ef-bd6e-cd71c2e1454a.jpg.webp",
+    "email": "messi.l@techflow.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "Former manager at TechFlow. Expert in UX design and career growth.",
+    "goal": 30,
+    "next_due_date": "2026-05-11"
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "picture": "https://hips.hearstapps.com/hmg-prod/images/cristiano-ronaldo-of-portugal-during-the-uefa-nations-news-photo-1748359673.pjpeg?crop=0.610xw:0.917xh;0.317xw,0.0829xh&resize=1400:*",
+    "email": "cr7.ronaldo@outlook.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": ["childhood", "close friend"],
+    "bio": "Best friends since 3rd grade. We usually grab coffee whenever I'm in town.",
+    "goal": 7,
+    "next_due_date": "2026-04-05"
+  },
+  
+]
