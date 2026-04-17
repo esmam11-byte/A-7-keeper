@@ -59,5 +59,65 @@
     "goal": 3,
     "next_due_date": "2026-04-16"
   },
+  {
+    "id": 6,
+    "name": "Robert Lewandowski",
+    "picture": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSzykLN_EFh05moQJzjvRDDJdEn3pFbrlm6mEKcnE13bHcasV7DMzDktTM539r5UqwBlDL99Qda8s44zVQ",
+    "email": "lewa.thorne@vanguard.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["investor", "work"],
+    "bio": "Angel investor interested in fintech. Met through a mutual colleague.",
+    "goal": 14,
+    "next_due_date": "2026-04-15"
+  },
+  {
+    "id": 7,
+    "name": "Frenkie de Jong",
+    "picture": "https://www.fcbarcelona.com/photo-resources/2025/09/09/793001b1-f225-4259-8a74-27e418a3e4c9/21-De_Jong.jpg?width=640&height=400",
+    "email": "jong_wu@creative.io",
+    "days_since_contact": 80,
+    "status": "overdue",
+    "tags": ["college", "old friend"],
+    "bio": "Study buddy from Computer Science days. Now a freelance illustrator.",
+    "goal": 60,
+    "next_due_date": "2026-02-28"
+  },
+  {
+    "id": 8,
+    "name": "Marc-André ter Stegen",
+    "picture": "https://b.fssta.com/uploads/application/soccer/headshots/1835.vresize.350.350.medium.1.png",
+    "email": "omar.fayed@global.net",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["neighbor", "close friend"],
+    "bio": "Downstairs neighbor. We often share gardening tips and local news.",
+    "goal": 14,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 9,
+    "name": "Lamine Yamal",
+    "picture": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQW97jFnDyDfSEO9pbagpZF2aywnUurDrns2kg-lTkrE0QnRCvzgqsm-CvNkHyJ9Mmq-Wq_8kYH64gkZd4",
+    "email": "yamal.t@lifestyle.com",
+    "days_since_contact": 19,
+    "status": "almost due",
+    "tags": ["travel", "hobby"],
+    "bio": "Met during the hiking trip in Nepal. Avid traveler and food blogger.",
+    "goal": 21,
+    "next_due_date": "2026-04-15"
+  },
+  {
+    "id": 10,
+    "name": "Jules Koundé",
+    "picture": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS74_K6hFGrcPfif84SjyYTKY_gdrAN_xFXP8HCO7AjUT46BvFfmTLpBkc3xmnPKeeJNlar1nfvhEY3N2M",
+    "email": "kounde.rossi@italy-dev.it",
+    "days_since_contact": 0,
+    "status": "on-track",
+    "tags": ["open source", "collaborator"],
+    "bio": "Core contributor to the library I use. Extremely helpful with PRs.",
+    "goal": 90,
+    "next_due_date": "2026-07-12"
+  }
 
 ]
